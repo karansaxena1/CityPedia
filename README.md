@@ -1,6 +1,7 @@
-# flutterfbauth
+# CityPedia
 
-A new Flutter project.
+A Flutter Application which  will include all necessary information about hospitals, colleges, visiting places, etc. at single platform. This will surely help our users to collect basic type of information in less time.
+We are developing this application for those people who travels in different cities or they are staying in a New city for Higher studies, job or for any other reasons and they want to get all the major information for that city in an easy and convenient way.
 
 ## Getting Started
 
